@@ -1,0 +1,16 @@
+TEST SHAPIRO (SHAPIRO - WILKA):
+
+1. wiki:
+https://pl.wikipedia.org/wiki/Test_Shapiro-Wilka?msclkid=674384d7c7c311eca568cb0f5775494a
+
+2. tablica a wartości:
+https://www.naukowiec.org/tablice/statystyka/wartosci--a_338.html
+
+3. tablica rozkładu statystyki W:
+https://www.naukowiec.org/tablice/statystyka/rozklad-w-test-shapiro-wilka-_335.html
+
+4. wzór:
+https://www.naukowiec.org/wzory/statystyka/test-shapiro-wilka_333.html
+
+5. ogólnie:
+https://www.naukowiec.org/wiedza/statystyka/test-shapiro-wilka_758.html?msclkid=6743ee50c7c311ec85ba8ee1ddbdb4c7

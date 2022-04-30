@@ -12,5 +12,11 @@ https://www.naukowiec.org/tablice/statystyka/rozklad-w-test-shapiro-wilka-_335.h
 4. wzór:
 https://www.naukowiec.org/wzory/statystyka/test-shapiro-wilka_333.html
 
-5. ogólnie:
+5. pythonowo:
+https://www.statology.org/shapiro-wilk-test-python/#:~:text=The%20Shapiro-Wilk%20test%20is%20a%20test%20of%20normality.,%28%29%20function%2C%20which%20takes%20on%20the%20following%20syntax%3A
+
+6. ogólnie:
 https://www.naukowiec.org/wiedza/statystyka/test-shapiro-wilka_758.html?msclkid=6743ee50c7c311ec85ba8ee1ddbdb4c7
+
+7. LaTex:
+https://latex.codecogs.com/
